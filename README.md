@@ -1,19 +1,18 @@
 <h1 align="center">
-    <img alt="BeTheHero" src=".frontend/src/assets/índice.svg" width="250px" />
+    <img alt="BeTheHero" src=".frontend/src/assets/logo.svg" width="250px" />
 </h1>
 
 <h4 align="center"> 
-	 🚀 Semana OmniStack 11.0
+	🚀 Semana OmniStack 11.0
 </h4>
 
 <p align="center">
-  <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
+  <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#information_source-como-usar">Como usar</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ## :computer: Projeto
----
 <strong>Be The Hero</strong> é um projeto da <strong>11º edição da Semana OmniStack</strong> que é ministrada pelo Diego Fernandes da Rocketseat .
 O projeto é um sistema de ajuda para ONGs onde uma instituição posta uma caso/<i>incident</i> informando um valor necessário para resolução do problema. A partir daí os <i>Heroes</i> entram em ação contactando a ONG para ajudar coma uma doação financeira.
 
@@ -25,10 +24,14 @@ Já no aplicativo, desenvolvido em React Native, foi feito apenas a área dos <i
 <img src="frontend/src/assets/incidents.PNG" alt="Página incidentes">
 <img src="frontend/src/assets/new-incident.PNG" alt="Página novo incidente">
 <img src="frontend/src/assets/new-ong.PNG" alt="Página nova ong">
-<img src="mobile/assets/incidents.PNG" alt="Página incidentes"> <img src="mobile/assets/details.PNG" alt="Página detalhes">
+
+<div>
+	<img src="mobile/assets/incidents.PNG" alt="Página incidentes" width="300px" align="center">
+	<img src="mobile/assets/details.PNG" alt="Página detalhes" width="300px" align="center">
+</div>
+
 
 ## :rocket: Tecnologias
----
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
 - [Node.js](https://nodejs.org/en/) 
@@ -37,13 +40,11 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Expo](https://expo.io/)
 
 ## :information_source: Como usar
----
 Para clonar e rodar esta aplicação, você vai precisar [Git](https://git-scm.com), [Node.js][nodejs] + [Npm][npm] instalado em seu computador.
 
 Na sua linha de comando:
 
 ### Instalar API
----
 ```bash
 # Clonar este repositório
 $ git clone https://github.com/grioos/omnistack11
