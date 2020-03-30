@@ -26,7 +26,7 @@ Já no aplicativo, desenvolvido em React Native, foi feito apenas a área dos <i
 <img src="frontend/src/assets/new-ong.PNG" alt="Página nova ong">
 
 <div>
-	<img src="mobile/assets/incidents.PNG" alt="Página incidentes" width="300px" align="left">
+	<img src="mobile/assets/incidents.PNG" alt="Página incidentes" width="300px" align="center">
 	<img src="mobile/assets/details.PNG" alt="Página detalhes" width="300px" align="right">
 </div>
 
