@@ -64,7 +64,8 @@ Para clonar e rodar esta aplicação, você vai precisar [Git](https://git-scm.c
 
 Na sua linha de comando:
 
-### Instalar API
+### Backend
+
 ```bash
 # Clonar este repositório
 $ git clone https://github.com/grioos/omnistack11
@@ -124,8 +125,6 @@ $ npm i
 
 # Execute a aplicação
 $ npm start
-
-# Uma página com QR code abrirá onde você pode scanear com seu aparelho ou abrir com seu emulador
 
 ```
 
