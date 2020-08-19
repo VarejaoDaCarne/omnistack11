@@ -67,6 +67,7 @@ Na sua linha de comando:
 ### Backend
 
 ```bash
+
 # Clonar este repositório
 $ git clone https://github.com/grioos/omnistack11
 
@@ -84,6 +85,7 @@ $ npm seed
 
 # Rodas a API
 $ npm start
+
 ```
 
 #### Frontend
