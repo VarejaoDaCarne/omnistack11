@@ -6,6 +6,10 @@
 	🚀 Semana OmniStack 11.0
 </h4>
 
+<h1 align="center">
+	<img src="frontend/src/assets/logon.PNG" alt="Página login">
+</h1>
+
 <p align="center">
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -30,7 +34,6 @@ Já no aplicativo, desenvolvido em React Native, foi feito apenas a área dos <i
  <img alt="Email" title="Email" src="mobile/assets/email.PNG" width="200px">
 </p>
 
-<img src="frontend/src/assets/logon.PNG" alt="Página login">
 <img src="frontend/src/assets/incidents.PNG" alt="Página incidentes">
 <img src="frontend/src/assets/new-incident.PNG" alt="Página novo incidente">
 <img src="frontend/src/assets/new-ong.PNG" alt="Página nova ong">
