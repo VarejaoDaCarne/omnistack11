@@ -55,7 +55,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - [Cors](https://www.npmjs.com/package/cors)
 
 ## :information_source: Como usar
-Para clonar e rodar esta aplicação, você vai precisar [Git](https://git-scm.com), [Node.js][nodejs] + [Npm][npm] instalado em seu computador.
+Para clonar e rodar esta aplicação, você vai precisar [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) + [Npm](https://www.npmjs.com/) instalado em seu computador.
 
 Na sua linha de comando:
 
