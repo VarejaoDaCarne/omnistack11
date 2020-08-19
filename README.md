@@ -26,7 +26,6 @@ Na ideia original, a versão Web, feita em React, conta apenas com a parte admin
 Já no aplicativo, desenvolvido em React Native, foi feito apenas a área dos <i>Heroes</i>. Estes visualizam uma lista com os casos de todas as ONGs, acessam os detalhes de um caso e entram em contato, por e-mail ou Whatsapp, diretamente pelo aplicativo.
 
 ## :camera: Screenshots
-
 <div>
 <img src="frontend/src/assets/incidents.PNG" alt="Página incidentes">
 
