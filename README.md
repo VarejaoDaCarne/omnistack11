@@ -84,6 +84,51 @@ $ npm seed
 # Rodas a API
 $ npm start
 ```
+
+#### Frontend
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/grioos/omnistack11
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd omnistack11
+
+# Vá para a pasta da aplicação Front End
+$ cd frontend
+
+# Instale as dependências
+$ npm i
+
+# Execute a aplicação
+$ npm start
+
+```
+
+#### Mobile
+
+```bash
+
+# Clone este repositório
+$ git clone https://github.com/grioos/omnistack11
+
+# Acesse a pasta do projeto no seu terminal/cmd
+$ cd omnistack11
+
+# Vá para a pasta da aplicação Front End
+$ cd mobile
+
+# Instale as dependências
+$ npm i
+
+# Execute a aplicação
+$ npm start
+
+# Uma página com QR code abrirá onde você pode scanear com seu aparelho ou abrir com seu emulador
+
+```
+
 ---
 
 Feito com :black_heart: by [Gabriel Rios](https://www.linkedin.com/in/grioos/)
