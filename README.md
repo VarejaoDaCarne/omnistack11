@@ -23,11 +23,11 @@ Já no aplicativo, desenvolvido em React Native, foi feito apenas a área dos <i
 ## 📷 Screenshots
 
 <p align="center">
-	<img src="mobile/assets/incidents.PNG" alt="Página incidentes" width="200px">
+	<img src="mobile/assets/incidents.PNG" alt="Página incidentes" title="Página inciantes" width="200px">
 	
-	<img src="mobile/assets/details.PNG" alt="Página detalhes" width="200px">
+	<img src="mobile/assets/details.PNG" alt="Página detalhes" title="Página detalhes" width="200px">
 	
-	<img src="mobile/assets/email.PNG" alt="Página email" width="200px">
+	<img src="mobile/assets/email.PNG" alt="Página email" title="Página email" width="200px">
 </p>
 
 <img src="frontend/src/assets/logon.PNG" alt="Página login">
