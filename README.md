@@ -26,19 +26,23 @@ Já no aplicativo, desenvolvido em React Native, foi feito apenas a área dos <i
 
 ## 📷 Screenshots
 
-<p align="center">
- <img alt="Incidentes" title="Incidentes" src="mobile/assets/incidents.PNG" width="200px">
-	
- <img alt="Detalhes" title="Detalhes" src="mobile/assets/details.PNG" width="200px">
-	
- <img alt="Email" title="Email" src="mobile/assets/email.PNG" width="200px">
-</p>
-
+<div>
 <img src="frontend/src/assets/incidents.PNG" alt="Página incidentes">
+
 <img src="frontend/src/assets/new-incident.PNG" alt="Página novo incidente">
+
 <img src="frontend/src/assets/new-ong.PNG" alt="Página nova ong">
+</div>
 
-
+<p align="center">
+ <img alt="Incidentes" title="Incidentes" src="mobile/assets/incidents.PNG">
+</p>
+<p align="center">
+ <img alt="Detalhes" title="Detalhes" src="mobile/assets/details.PNG">
+</p>
+<p align="center">
+ <img alt="Email" title="Email" src="mobile/assets/email.PNG">
+</p>
 
 
 ## :rocket: Tecnologias
