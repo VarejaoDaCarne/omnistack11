@@ -2,9 +2,9 @@
     <img alt="Be The Hero" src="frontend/src/assets/índice.svg" width="250px" />
 </h1>
 
-<h4 align="center"> 
-	🚀 Semana OmniStack 11.0
-</h4>
+<h3 align="center">
+    🦸 Seja um verdadeiro Heroi.
+</h3>
 
 <h1 align="center">
 	<img src="frontend/src/assets/logon.PNG" alt="Página login">
