@@ -20,16 +20,22 @@ Na ideia original, a versão Web, feita em React, conta apenas com a parte admin
 
 Já no aplicativo, desenvolvido em React Native, foi feito apenas a área dos <i>Heroes</i>. Estes visualizam uma lista com os casos de todas as ONGs, acessam os detalhes de um caso e entram em contato, por e-mail ou Whatsapp, diretamente pelo aplicativo.
 
+## 📷 Screenshots
+
+<p align="center">
+	<img src="mobile/assets/incidents.PNG" alt="Página incidentes" width="200px">
+	
+	<img src="mobile/assets/details.PNG" alt="Página detalhes" width="200px">
+	
+	<img src="mobile/assets/email.PNG" alt="Página email" width="200px">
+</p>
+
 <img src="frontend/src/assets/logon.PNG" alt="Página login">
 <img src="frontend/src/assets/incidents.PNG" alt="Página incidentes">
 <img src="frontend/src/assets/new-incident.PNG" alt="Página novo incidente">
 <img src="frontend/src/assets/new-ong.PNG" alt="Página nova ong">
 
-<div>
-	<img src="mobile/assets/incidents.PNG" alt="Página incidentes" width="300px" align="center">
-	<img src="mobile/assets/details.PNG" alt="Página detalhes" width="300px" align="center">
-	<img src="mobile/assets/email.PNG" alt="Página email" width="300px" align="center">
-</div>
+
 
 
 ## :rocket: Tecnologias
