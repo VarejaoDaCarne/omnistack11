@@ -44,10 +44,15 @@ Já no aplicativo, desenvolvido em React Native, foi feito apenas a área dos <i
 ## :rocket: Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/) 
 - [React](https://reactjs.org)
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
+- [Node.js](https://nodejs.org/en/)
+- [Expo](https://expo.io/)
+- [Express](https://expressjs.com/pt-br/)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [Axios](https://www.npmjs.com/package/axios)
+- [Cors](https://www.npmjs.com/package/cors)
 
 ## :information_source: Como usar
 Para clonar e rodar esta aplicação, você vai precisar [Git](https://git-scm.com), [Node.js][nodejs] + [Npm][npm] instalado em seu computador.
@@ -77,7 +82,3 @@ $ npm start
 ---
 
 Feito com :black_heart: by [Gabriel Rios](https://www.linkedin.com/in/grioos/)
-
-[nodejs]: https://nodejs.org/
-[npm]: https://www.npmjs.com/get-npm
-[vc]: https://code.visualstudio.com/
