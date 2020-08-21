@@ -64,7 +64,7 @@ Para clonar e rodar esta aplicação, você vai precisar [Git](https://git-scm.c
 
 Na sua linha de comando:
 
-### Backend
+#### Backend
 
 ```bash
 
@@ -132,4 +132,4 @@ $ npm start
 
 ---
 
-Feito com :black_heart: by [Gabriel Rios](https://www.linkedin.com/in/grioos/)
+Feito by [Gabriel Rios](https://www.linkedin.com/in/grioos/)
